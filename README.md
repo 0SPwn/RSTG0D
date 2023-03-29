@@ -5,5 +5,5 @@ About RiotSecurityTeam:
 - RiotSecurityTeam is an offensive security group created in 2020, we've helped secure major companies such as Verizon, Yahoo, Reddit, DOD, Cloud Providers and more by reporting vulnerabilities.
 
 Blog/Socials:
-- https://twitter.com/RiotSecTeam
+- https://twitter.com/0SPwn
 - https://blog.riotsecurityteam.com
